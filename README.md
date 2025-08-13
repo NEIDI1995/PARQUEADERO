@@ -2,6 +2,18 @@
 Proyecto en java que gestiona un parqueadero usando herencia y polimorfismo
 
 
+ProyectoParqueadero/
+├── src/
+│   └── parqueadero/
+│       ├── Vehiculo.java
+│       ├── Automovil.java
+│       ├── Motocicleta.java
+│       ├── Camion.java
+│       ├── Parqueadero.java
+│       └── Main.java
+└── README.md
+
+
 package parqueadero;
 
 import java.time.*;
